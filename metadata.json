@@ -1,0 +1,6 @@
+{
+  "name": "Multi-Agent Crypto Trading System",
+  "description": "Multi-agent autonomous crypto trading architecture featuring deterministic quant signals, AI sentiment & research synthesis, hard-coded risk vetoes, and paper execution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
